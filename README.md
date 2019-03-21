@@ -1,3 +1,3 @@
 # OnlineShop-project
 
-You can see demo version HERE.
+https://borissarovic.github.io/OnlineShop-project/
